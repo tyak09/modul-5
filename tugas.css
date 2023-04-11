@@ -1,0 +1,60 @@
+body{
+    background-color: #D6DBDF
+}
+.style-logo{
+    position: absolute;
+    align-items: center;
+    width: 30px;
+    height: 70px;
+    left: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    color: white;
+
+}
+.style-home{
+    font-weight: 700;
+}
+.user{
+   position: absolute;
+   align-items: center;
+   height: 40px;
+   color: white;
+
+   left: 150px;
+   
+
+}
+
+.navbar{
+    color: white;
+}
+
+.teks{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    align-items: center;
+    color: grey;
+    
+}
+
+.huruf{
+    text-align: justify;
+}
+
+.text3{
+    font-size: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:justify;
+}
+button.tombol.button {
+    background-color: red;
+    border-radius: 50px;
+    color: white;
+    width: 400px;
+    height: 40px;
+
+    
+    
+}
